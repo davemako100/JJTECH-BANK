@@ -1,3 +1,4 @@
 users can signup with name, email, password 
 users can login with mobile and OTP
 users can login with face recognition 
+users can login with finger print

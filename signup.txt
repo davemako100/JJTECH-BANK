@@ -1,2 +1,2 @@
 users can signup with name, email, password 
-users can login with mobile number
+users can signup with mobile 
